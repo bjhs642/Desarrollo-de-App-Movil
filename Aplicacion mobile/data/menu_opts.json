@@ -1,0 +1,26 @@
+{
+    "nombreApp" : "Encuestas",
+    "rutas" : [
+        {
+            "ruta" : "paro",
+            "icon" : "flag_rounded",
+            "texto": "Votación - Paro"
+        },
+        {
+            "ruta" : "docente",
+            "icon" : "boy_rounded",
+            "texto": "Encuesta - Docente"
+        },
+        {
+            "ruta" : "infraestructura",
+            "icon" : "apartment_rounded",
+            "texto": "Encuesta - Infraestructura"
+        },
+        {
+            "ruta" : "integrantes",
+            "icon" : "group",
+            "texto": "Integrantes"
+        }
+        
+    ]
+}
